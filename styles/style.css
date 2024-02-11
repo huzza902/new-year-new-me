@@ -1,3 +1,39 @@
-.head{
+.head {
+    color: aliceblue;
     text-align: right;
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    right: 230px;
+    top: 216px;
+    bottom: 2785px
 }
+
+header {
+    background-image: url("../images/banner/banner3.png");
+    width: 1500px;
+    height: 808px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 2421px;
+}
+.mot{
+    font-size: 65px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Work Sans";
+}
+.submot{
+    /* width: 494px; */
+/* height: 78px; */
+font-size: 16px;
+line-height: 26px;
+/* color: #ffffff; */
+font-weight: 400;
+/* font-family: "Work Sans"; */
+text-align: 
+}
+
