@@ -1,39 +1,119 @@
-.head {
-    color: aliceblue;
-    text-align: right;
-    position: absolute;
-    width: 525px;
+head {
+    text-align: left;
+    /* position: absolute; */
+    /* width: 525px;
     height: 228px;
     left: 845px;
     right: 230px;
     top: 216px;
-    bottom: 2785px
+    bottom: 2785px */
 }
 
 header {
-    background-image: url("../images/banner/banner3.png");
-    width: 1500px;
+    /* background-image: url("../images/banner/banner3.png");  */
+    /* width: 1500px;
     height: 808px;
     position: absolute;
     left: 0;
     right: 0;
-    top: 0;
-    bottom: 2421px;
+    top: 0; */
+
 }
-.mot{
-    font-size: 65px;
-color: #ffffff;
-font-weight: 700;
-font-family: "Work Sans";
+
+.mot {
+    font-size: 45px;
+    color: rgb(55, 206, 67);
+    font-weight: 700;
+    font-family: "Work Sans";
+    position: absolute;
+    width: 325px;
+    height: 200px;
+    left: 845px;
+    right: 230px;
+    top: 216px;
+    bottom: 2785px;
+    text-align: left;
 }
-.submot{
-    /* width: 494px; */
-/* height: 78px; */
-font-size: 16px;
-line-height: 26px;
-/* color: #ffffff; */
-font-weight: 400;
-/* font-family: "Work Sans"; */
-text-align: 
+
+.submot {
+    width: 494px;
+    height: 78px;
+    font-size: 16px;
+    line-height: 26px;
+    color: aqua;
+    font-weight: 400;
+    font-family: "Work Sans";
+    text-align: left;
+    position: absolute;
+    left: 850px;
+    right: 230px;
+    top: 468px;
+    bottom: 2683px;
+}
+
+.person {
+    height: 200px;
+    width: 451px;
+    padding-left: 0px;
+    position: absolute;
+    
+    width: 451px;
+    height: 598px;
+    left: 299px;
+    right: -159px;
+    top: 948px;
+    bottom: -1122.7px;
+}
+
+.banner {
+    height: 808px;
+    width: 1320px;
+}
+
+/* main section */
+.f-title {
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0%;
+    text-align: left;
+    position: absolute;
+    /* width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    right: 322px;
+    top: 939px;
+    bottom: 1566.7px;position: absolute; */
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    right: -734px;
+    top: 1000px;
+    bottom: -872px;
+}
+
+.list-f {
+    /* Group 3977 */
+position: absolute;
+width: 416px;
+height: 400px;
+left: 862px;
+right: -206px;
+top: 1178px;
+bottom: -854.7px;
+}
+
+.f-des {
+    text-align: left;
+    width: 400px;
+    /* padding-left: 600px; */
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    right: -206px;
+    top: 1250px;
+    bottom: -854.7px;
+    position: absolute;
 }
 
