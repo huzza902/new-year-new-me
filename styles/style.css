@@ -67,7 +67,7 @@ header {
 
 .banner {
     height: 808px;
-    width: 1320px;
+    width: 1420px;
 }
 
 /* main section */
@@ -117,3 +117,51 @@ bottom: -854.7px;
     position: absolute;
 }
 
+.plan-head{
+    text-align: center;
+
+   
+}
+.pain{
+    display: flex;
+    text-align: center;
+    gap: 30px;
+    padding-left: 200px;
+}
+.plan-des{
+    color: darkslategrey;
+}
+.plans{
+    padding: 30px;
+   
+
+}
+.plains{
+    position: absolute;
+width: 1001px;
+height: 299.96px;
+/* left: 230px; */
+right: 229px;
+top: 1792.3px;
+/* bottom: 1130.74px; */
+text-align: center;
+}
+.pics{
+
+    width: 1040px;
+    height: 300px;
+    border-radius: 8px;
+   /* position: absolute; */
+   position: relative;
+   /* background-image: url("../images/gradient1.png"); */
+   background-image: url("../images/gradient1.png");
+}
+.plan-pic{
+    /* background-image: url("../images/watch.png"); */
+   /* position: absolute; */
+    text-align: left;
+    background-image: url("../images/gradient1.png");
+    /* position: relative; */
+    /* background-repeat: none; */
+}
+    
